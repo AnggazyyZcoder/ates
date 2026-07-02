@@ -150,7 +150,7 @@ function saveCustomFlags() {
 // ============================================================
 // CONFIG
 // ============================================================
-const BOT_TOKEN = "8953305937:AAFI7EwznA5E_DRGCVAHxLQFAUbXUrPr06E";
+const BOT_TOKEN = "8718500610:AAFEBiLDfu7tIWy1b2pcuhxQCLmOfpQwf1k";
 const OWNER_IDS = ["6828924584"];
 
 // IVAS SMS Config - FULL
